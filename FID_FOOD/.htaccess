@@ -1,8 +1,0 @@
-<IfModule mod_rewrite.c>
-    RewriteEngine On
-
-    RewriteRule ^php/user/user_pages/index.php$ /FID_FOOD/php/user/user_pages/index.php [R=301,L]
-
-    RewriteCond %{REQUEST_METHOD} !^(GET|POST)$ [NC]
-    RewriteRule ^ - [R=405,L]
-</IfModule>
