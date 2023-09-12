@@ -3,7 +3,7 @@
 ## Projekta apraksts:
 Šī tīmekļa vietne piedāvā lietotājiem ērtu platformu, lai pasūtītu gatavu ēdienu un piedāvā iespēju gatavot ēdienus pašiem, ņemot vērā viņu vēlmes un diētiskos ierobežojumus. Projekta galvenais mērķis ir veicināt veselīgu uzturu, lietotāju laika un naudas ietaupīšanu.
 
-## Lomas un funkcionalitāte:
+## Lomas un funkcionalitātes:
 
 + **Lietotājs:**
   + Galvenās lapas pārlūkošana, lai iepazītos ar piedāvājumu.
