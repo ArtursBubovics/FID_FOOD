@@ -40,7 +40,9 @@
 ## Kā tas izskatās:
 
 ### User:
-![Image alt](https://github.com/ArtursBubovics/FID_FOOD/blob/main/Project_img/user/Lapas_sakums_1.PNG)
+
+<img src="![Image alt](https://github.com/ArtursBubovics/FID_FOOD/blob/main/Project_img/user/Lapas_sakums_1.PNG)" alt="Your Image Description" width="400" height="300" style="border: 2px solid black;">
+
 
 ![Image alt](https://github.com/ArtursBubovics/FID_FOOD/blob/main/Project_img/user/Lapas_sakums_2.PNG)
 
