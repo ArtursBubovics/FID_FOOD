@@ -23,16 +23,16 @@
 ## Izmantotās tehnoloģijas:
 
 + **Front-End:**
-  + HTML - Tīmekļa lapu struktūras izveidei.
-  + CSS - Vietnes stilizēšanai un izskata pielāgošanai.
-  + jQuery - Interaktīvu elementu izveidei un lietotāja pieredzes uzlabošanai.
-  + Slide Slicker - Karusēlu un slaidu šovu veidošanai.
-  + Air Datepicker - Datuma izvēlei.
-  + jQuery Cookie - Darbam ar sīkfailiem un datu saglabāšanai klienta pusē.
+  + **HTML** - Tīmekļa lapu struktūras izveidei.
+  + **CSS** - Vietnes stilizēšanai un izskata pielāgošanai.
+  + **jQuery** - Interaktīvu elementu izveidei un lietotāja pieredzes uzlabošanai.
+  + **Slide Slicker** - Karusēlu un slaidu šovu veidošanai.
+  + **Air Datepicker** - Datuma izvēlei.
+  + **jQuery Cookie** - Darbam ar sīkfailiem un datu saglabāšanai klienta pusē.
 
 + **Back-End:**
-  + PHP - Datu apstrādei un darbam ar datu bāzi.
-  + XAMPP - Lokālās attīstības vides izveidei un servera palaišanai.
-  + MySQL - Datu par produktiem, receptēm un lietotājiem glabāšanai.
+  + **PHP** - Datu apstrādei un darbam ar datu bāzi.
+  + **XAMPP** - Lokālās attīstības vides izveidei un servera palaišanai.
+  + **MySQL** - Datu par produktiem, receptēm un lietotājiem glabāšanai.
 
 Šī vietne ir izstrādāta kā prototips un ietver gan lietotāju, gan administratīvo daļu. Lietotāji var pasūtīt ēdienu, aprēķināt savu uztura režīmu un iepazīties ar akcijām un jaunumiem. Administratori var pārvaldīt vietnes saturu, pievienojot un rediģējot kategorijas, ēdienus, receptes, kā arī uzņēmuma informāciju un akcijas.
