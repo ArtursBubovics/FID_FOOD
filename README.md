@@ -36,3 +36,33 @@
   + **MySQL** - Datu par produktiem, receptēm un lietotājiem glabāšanai.
 
 Šī vietne ir izstrādāta kā prototips un ietver gan lietotāju, gan administratīvo daļu. Lietotāji var pasūtīt ēdienu, aprēķināt savu uztura režīmu un iepazīties ar akcijām un jaunumiem. Administratori var pārvaldīt vietnes saturu, pievienojot un rediģējot kategorijas, ēdienus, receptes, kā arī uzņēmuma informāciju un akcijas.
+
+## Kā tas izskatās:
+
+### User:
+![Image alt](https://github.com/ArtursBubovics/FID_FOOD/blob/main/Project_img/user/Lapas_sakums_1.PNG)
+
+![Image alt](https://github.com/ArtursBubovics/FID_FOOD/blob/main/Project_img/user/Lapas_sakums_2.PNG)
+
+![Image alt](https://github.com/ArtursBubovics/FID_FOOD/blob/main/Project_img/user/Lapas_sakums_3.PNG)
+
+![Image alt](https://github.com/ArtursBubovics/FID_FOOD/blob/main/Project_img/user/Izvelne_1.PNG)
+
+![Image alt](https://github.com/ArtursBubovics/FID_FOOD/blob/main/Project_img/user/Izvelne_2.PNG)
+
+![Image alt](https://github.com/ArtursBubovics/FID_FOOD/blob/main/Project_img/user/Izvelne_3.PNG)
+
+![Image alt](https://github.com/ArtursBubovics/FID_FOOD/blob/main/Project_img/user/Akcijas.PNG)
+
+![Image alt](https://github.com/ArtursBubovics/FID_FOOD/blob/main/Project_img/user/Kontaktinformācija.PNG)
+
+![Image alt](https://github.com/ArtursBubovics/FID_FOOD/blob/main/Project_img/user/Kalkulators.PNG)
+
+![Image alt](https://github.com/ArtursBubovics/FID_FOOD/blob/main/Project_img/user/Grozs.PNG)
+
+![Image alt](https://github.com/ArtursBubovics/FID_FOOD/blob/main/Project_img/user/Pieslegties_reģistrēties.PNG)
+
+![Image alt](https://github.com/ArtursBubovics/FID_FOOD/blob/main/Project_img/user/Lietotāja_informācija.PNG)
+
+### Admin:
+
