@@ -41,6 +41,8 @@
 
 ### User:
 
+![Your Image Description](https://github.com/ArtursBubovics/FID_FOOD/blob/main/Project_img/user/Lapas_sakums_1.PNG)
+
 <div style="border: 10px solid black;">
     ![Your Image Description](https://github.com/ArtursBubovics/FID_FOOD/blob/main/Project_img/user/Lapas_sakums_1.PNG)
 </div>
