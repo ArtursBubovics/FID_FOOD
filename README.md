@@ -86,10 +86,6 @@
 </kbd>
 
 <kbd>
-  <img src="/Project_img/user/Pieslegties_reģistrēties.PNG" />
-</kbd>
-
-<kbd>
   <img src="/Project_img/user/Lietotāja_informācija.PNG" />
 </kbd>
 
