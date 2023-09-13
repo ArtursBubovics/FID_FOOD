@@ -44,47 +44,49 @@
 <kbd>
   <img src="/Project_img/user/Lapas_sakums_1.PNG" />
 </kbd>
-<div style="margin-bottom: 10px;"></div>
+
+----
+
 <kbd>
   <img src="/Project_img/user/Lapas_sakums_2.PNG" />
 </kbd>
-<div style="margin-bottom: 10px;"></div>
+
 <kbd>
   <img src="/Project_img/user/Lapas_sakums_3.PNG" />
 </kbd>
-<div style="margin-bottom: 10px;"></div>
+
 <kbd>
   <img src="/Project_img/user/Izvelne_1.PNG" />
 </kbd>
-<div style="margin-right: 10px;"></div>
+
 <kbd>
   <img src="/Project_img/user/Izvelne_2.PNG" />
 </kbd>
-<div style="margin-right: 10px;"></div>
+
 <kbd>
   <img src="/Project_img/user/Izvelne_3.PNG" />
 </kbd>
-<div style="margin-right: 10px;"></div>
+
 <kbd>
   <img src="/Project_img/user/Akcijas.PNG" />
 </kbd>
-<div style="margin-right: 10px;"></div>
+
 <kbd>
   <img src="/Project_img/user/Kontaktinformācija.PNG" />
 </kbd>
-<div style="margin-right: 10px;"></div>
+
 <kbd>
   <img src="/Project_img/user/Kalkulators.PNG" />
 </kbd>
-<div style="margin-right: 10px;"></div>
+
 <kbd>
   <img src="/Project_img/user/Grozs.PNG" />
 </kbd>
-<div style="margin-right: 10px;"></div>
+
 <kbd>
   <img src="/Project_img/user/Pieslegties_reģistrēties.PNG" />
 </kbd>
-<div style="margin-right: 10px;"></div>
+
 <kbd>
   <img src="/Project_img/user/Lietotāja_informācija.PNG" />
 </kbd>
