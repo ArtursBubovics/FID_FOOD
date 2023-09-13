@@ -44,15 +44,15 @@
 <kbd>
   <img src="/Project_img/user/Lapas_sakums_1.PNG" />
 </kbd>
-<div style="margin-right: 10px;"></div>
+<div style="margin-bottom: 10px;"></div>
 <kbd>
   <img src="/Project_img/user/Lapas_sakums_2.PNG" />
 </kbd>
-<div style="margin-right: 10px;"></div>
+<div style="margin-bottom: 10px;"></div>
 <kbd>
   <img src="/Project_img/user/Lapas_sakums_3.PNG" />
 </kbd>
-<div style="margin-right: 10px;"></div>
+<div style="margin-bottom: 10px;"></div>
 <kbd>
   <img src="/Project_img/user/Izvelne_1.PNG" />
 </kbd>
