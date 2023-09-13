@@ -42,7 +42,7 @@
 ### User:
 
 <kbd>
-  <img src="/FID_FOOD/Project_img/user/Lapas_sakums_1.PNG" />
+  <img src="/Project_img/user/Lapas_sakums_1.PNG" />
 </kbd>
 
 ![Image alt](https://github.com/ArtursBubovics/FID_FOOD/blob/main/Project_img/user/Lapas_sakums_1.PNG)
