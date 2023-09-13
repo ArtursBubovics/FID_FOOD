@@ -46,30 +46,52 @@
 </kbd>
 
 <kbd>
-  <img src="/Project_img/user/Lapas_sakums_1.PNG" />
+  <img src="/Project_img/user/Lapas_sakums_2.PNG" />
 </kbd>
 
-![Image alt](https://github.com/ArtursBubovics/FID_FOOD/blob/main/Project_img/user/Lapas_sakums_2.PNG)
+<kbd>
+  <img src="/Project_img/user/Lapas_sakums_3.PNG" />
+</kbd>
 
-![Image alt](https://github.com/ArtursBubovics/FID_FOOD/blob/main/Project_img/user/Lapas_sakums_3.PNG)
+<kbd>
+  <img src="/Project_img/user/Izvelne_1.PNG" />
+</kbd>
 
-![Image alt](https://github.com/ArtursBubovics/FID_FOOD/blob/main/Project_img/user/Izvelne_1.PNG)
+<kbd>
+  <img src="/Project_img/user/Izvelne_2.PNG" />
+</kbd>
 
-![Image alt](https://github.com/ArtursBubovics/FID_FOOD/blob/main/Project_img/user/Izvelne_2.PNG)
+<kbd>
+  <img src="/Project_img/user/Izvelne_3.PNG" />
+</kbd>
 
-![Image alt](https://github.com/ArtursBubovics/FID_FOOD/blob/main/Project_img/user/Izvelne_3.PNG)
+<kbd>
+  <img src="/Project_img/user/Akcijas.PNG" />
+</kbd>
 
-![Image alt](https://github.com/ArtursBubovics/FID_FOOD/blob/main/Project_img/user/Akcijas.PNG)
+<kbd>
+  <img src="/Project_img/user/Kontaktinformācija.PNG" />
+</kbd>
 
-![Image alt](https://github.com/ArtursBubovics/FID_FOOD/blob/main/Project_img/user/Kontaktinformācija.PNG)
+<kbd>
+  <img src="/Project_img/user/Kalkulators.PNG" />
+</kbd>
 
-![Image alt](https://github.com/ArtursBubovics/FID_FOOD/blob/main/Project_img/user/Kalkulators.PNG)
+<kbd>
+  <img src="/Project_img/user/Grozs.PNG" />
+</kbd>
 
-![Image alt](https://github.com/ArtursBubovics/FID_FOOD/blob/main/Project_img/user/Grozs.PNG)
+<kbd>
+  <img src="/Project_img/user/Pieslegties_reģistrēties.PNG" />
+</kbd>
 
-![Image alt](https://github.com/ArtursBubovics/FID_FOOD/blob/main/Project_img/user/Pieslegties_reģistrēties.PNG)
+<kbd>
+  <img src="/Project_img/user/Pieslegties_reģistrēties.PNG" />
+</kbd>
 
-![Image alt](https://github.com/ArtursBubovics/FID_FOOD/blob/main/Project_img/user/Lietotāja_informācija.PNG)
+<kbd>
+  <img src="/Project_img/user/Lietotāja_informācija.PNG" />
+</kbd>
 
 ### Admin:
 
