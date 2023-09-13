@@ -113,3 +113,48 @@
 
 ### Admin:
 
+<kbd>
+  <img src="/Project_img/admin/Kategorijas_īpašības_alerģijas.PNG" />
+</kbd>
+
+----
+
+<kbd>
+  <img src="/Project_img/admin/Ēdienu_pievienošana_dzēšana_rediģēšana_1.PNG" />
+</kbd>
+
+----
+
+<kbd>
+  <img src="/Project_img/admin/Ēdienu_pievienošana_dzēšana_rediģēšana_2.PNG" />
+</kbd>
+
+----
+
+<kbd>
+  <img src="/Project_img/admin/Receptes_pievienošana_dzēšana_rediģēšana_1.PNG" />
+</kbd>
+
+----
+
+<kbd>
+  <img src="/Project_img/admin/Receptes_pievienošana_dzēšana_rediģēšana_2.PNG" />
+</kbd>
+
+----
+
+<kbd>
+  <img src="/Project_img/admin/Akcijas_pievienošana_dzēšana.PNG" />
+</kbd>
+
+----
+
+<kbd>
+  <img src="/Project_img/admin/Kontaktinformāciju_pievienošana_rediģēšana.PNG" />
+</kbd>
+
+----
+
+<kbd>
+  <img src="/Project_img/admin/DB.PNG" />
+</kbd>
