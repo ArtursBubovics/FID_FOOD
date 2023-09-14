@@ -36,9 +36,10 @@ This website offers users a convenient platform to order ready-made food and pro
   + **XAMPP** - Used for creating a local development environment and running the server.
   + **MySQL** - Used for storing data about products, recipes, and users.
 
+
 This website is developed as a prototype and includes both user and administrative parts. Users can order food, calculate their dietary regimen, and explore promotions and updates. Administrators can manage website content by adding and editing categories, food items, recipes, as well as company information and promotions.
 
-What It Looks Like:
+### What It Looks Like:
 
 ### User:
 
