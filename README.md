@@ -1,43 +1,44 @@
+
 # FID_FOOD
 
-## Projekta apraksts:
-Šī tīmekļa vietne piedāvā lietotājiem ērtu platformu, lai pasūtītu gatavu ēdienu un piedāvā iespēju gatavot ēdienus pašiem, ņemot vērā viņu vēlmes un diētiskos ierobežojumus. Projekta galvenais mērķis ir veicināt veselīgu uzturu, lietotāju laika un naudas ietaupīšanu.
+## Project Description:
+This website offers users a convenient platform to order ready-made food and provides the option to cook meals themselves, taking into account their preferences and dietary restrictions. The main goal of the project is to promote healthy eating, save users' time and money.
 
-## Lomas un funkcionalitātes:
+## Roles and Features:
 
-+ **Lietotājs:**
-  + Galvenās lapas pārlūkošana, lai iepazītos ar piedāvājumu.
-  + Ēdiena pasūtīšana ar kategoriju un ēdienu izvēli.
-  + Ķermeņa masas indeksa (BMI) un ideālā svara aprēķins.
-  + Pasūtījuma noformēšana un ēdienu pievienošana grozam.
-  + Iespēja izveidot un pierakstīties sistēmā.
-  + Saviem datiem un pasūtījumu vēsturei skatīšana.
-    
++ **User:**
+  + Browsing the main page to explore the offerings.
+  + Ordering food with category and meal selection.
+  + Calculating body mass index (BMI) and ideal weight.
+  + Placing orders and adding meals to the cart.
+  + Option to create an account and log in.
+  + Viewing their data and order history.
+
 + **Administrators:**
-  + Ieiešana un iziešana no administratīvā paneļa.
-  + Ēdienu kategoriju un to īpašību pārvaldīšana.
-  + Ēdienu un receptes pievienošana, rediģēšana un dzēšana.
-  + Akciju un jaunumu pārvaldīšana.
-  + Uzņēmuma kontaktinformācijas pievienošana un labošana.
+  + Logging in and out of the admin panel.
+  + Managing food categories and their properties.
+  + Adding, editing, and deleting food items and recipes.
+  + Managing promotions and updates.
+  + Adding and editing company contact information.
 
-## Izmantotās tehnoloģijas:
+## Technologies Used:
 
 + **Front-End:**
-  + **HTML** - Tīmekļa lapu struktūras izveidei.
-  + **CSS** - Vietnes stilizēšanai un izskata pielāgošanai.
-  + **jQuery** - Interaktīvu elementu izveidei un lietotāja pieredzes uzlabošanai.
-  + **Slide Slicker** - Karusēlu un slaidu šovu veidošanai.
-  + **Air Datepicker** - Datuma izvēlei.
-  + **jQuery Cookie** - Darbam ar sīkfailiem un datu saglabāšanai klienta pusē.
+  + **HTML** - Used for creating the structure of web pages.
+  + **CSS** - Used for website styling and customization.
+  + **jQuery** - Used for creating interactive elements and enhancing the user experience.
+  + **Slide Slicker** - Used for creating carousels and slide shows.
+  + **Air Datepicker** - Used for date selection.
+  + **jQuery Cookie** - Used for working with cookies and client-side data storage.
 
 + **Back-End:**
-  + **PHP** - Datu apstrādei un darbam ar datu bāzi.
-  + **XAMPP** - Lokālās attīstības vides izveidei un servera palaišanai.
-  + **MySQL** - Datu par produktiem, receptēm un lietotājiem glabāšanai.
+  + **PHP** - Used for data processing and working with the database.
+  + **XAMPP** - Used for creating a local development environment and running the server.
+  + **MySQL** - Used for storing data about products, recipes, and users.
 
-Šī vietne ir izstrādāta kā prototips un ietver gan lietotāju, gan administratīvo daļu. Lietotāji var pasūtīt ēdienu, aprēķināt savu uztura režīmu un iepazīties ar akcijām un jaunumiem. Administratori var pārvaldīt vietnes saturu, pievienojot un rediģējot kategorijas, ēdienus, receptes, kā arī uzņēmuma informāciju un akcijas.
+This website is developed as a prototype and includes both user and administrative parts. Users can order food, calculate their dietary regimen, and explore promotions and updates. Administrators can manage website content by adding and editing categories, food items, recipes, as well as company information and promotions.
 
-## Kā tas izskatās:
+What It Looks Like:
 
 ### User:
 
