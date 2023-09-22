@@ -44,24 +44,6 @@ This website is developed as a prototype and includes both user and administrati
 ### User:
 
 <kbd>
-  <img src="/Project_img/user/Lapas_sakums_1.PNG" />
-</kbd>
-
-----
-
-<kbd>
-  <img src="/Project_img/user/Lapas_sakums_2.PNG" />
-</kbd>
-
-----
-
-<kbd>
-  <img src="/Project_img/user/Lapas_sakums_3.PNG" />
-</kbd>
-
-----
-
-<kbd>
   <img src="/Project_img/user/Izvelne_1.PNG" />
 </kbd>
 
