@@ -62,12 +62,6 @@ This website is developed as a prototype and includes both user and administrati
 ----
 
 <kbd>
-  <img src="/Project_img/user/Akcijas.PNG" />
-</kbd>
-
-----
-
-<kbd>
   <img src="/Project_img/user/Kontaktinformācija.PNG" />
 </kbd>
 
@@ -123,12 +117,6 @@ This website is developed as a prototype and includes both user and administrati
 
 <kbd>
   <img src="/Project_img/admin/Receptes_pievienošana_dzēšana_rediģēšana_2.PNG" />
-</kbd>
-
-----
-
-<kbd>
-  <img src="/Project_img/admin/Akcijas_pievienošana_dzēšana.PNG" />
 </kbd>
 
 ----
